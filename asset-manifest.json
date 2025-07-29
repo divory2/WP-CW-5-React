@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.f81dda9d.css",
-    "main.js": "/react-gh-pages/static/js/main.1955227c.js",
-    "static/js/453.ebb02bca.chunk.js": "/react-gh-pages/static/js/453.ebb02bca.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.f81dda9d.css.map": "/react-gh-pages/static/css/main.f81dda9d.css.map",
-    "main.1955227c.js.map": "/react-gh-pages/static/js/main.1955227c.js.map",
-    "453.ebb02bca.chunk.js.map": "/react-gh-pages/static/js/453.ebb02bca.chunk.js.map"
+    "main.css": "/WP-CW-5-React/static/css/main.f81dda9d.css",
+    "main.js": "/WP-CW-5-React/static/js/main.3b343987.js",
+    "static/js/453.ebb02bca.chunk.js": "/WP-CW-5-React/static/js/453.ebb02bca.chunk.js",
+    "index.html": "/WP-CW-5-React/index.html",
+    "main.f81dda9d.css.map": "/WP-CW-5-React/static/css/main.f81dda9d.css.map",
+    "main.3b343987.js.map": "/WP-CW-5-React/static/js/main.3b343987.js.map",
+    "453.ebb02bca.chunk.js.map": "/WP-CW-5-React/static/js/453.ebb02bca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f81dda9d.css",
-    "static/js/main.1955227c.js"
+    "static/js/main.3b343987.js"
   ]
 }
