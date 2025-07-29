@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.dropdown-fields{
+  display: flex;
+  flex-direction: column;
+  color: teal;              
+  font-weight: bold;
+  background-color: #f8f9fa; 
+}
+.dropdown-fields:hover{
+  background-color: #cce5ff; 
+  color: #0056b3;   
+}
